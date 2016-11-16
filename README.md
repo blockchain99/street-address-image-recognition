@@ -1,6 +1,5 @@
 # CNNs_street-address-recognition
-# MLND Deep Learning Capstone
-Project to detect Street View House Number using tensorflow, deep learning platform  
+## MLND Deep Learning Capstone Project to detect Street View House Number using tensorflow, deep learning platform  
 
 In this project, I would decode and recognize the sequences of digits from the natural images of Street View House Numbers (SVHN) through training Convolutional neural networks (CNN), which is the special case of the neural network with convolutional layers and subsampling layers.
 This model could enable us to find the housing number of a specific location in a street as a format of
