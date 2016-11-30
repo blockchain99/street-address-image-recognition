@@ -44,6 +44,10 @@ Open the 5 Files and run each cell one by one in the files.
 This project uses the [The Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/) 
 These dataset are downloaded and extracted in ` capstone_preparation_project.ipynb ` and ` capstone_main_preprocess_project.ipynb `
 
+## Meta
+Yoonsu Park - http://www.patternics.com
+Distributed under the MIT license. See LICENSE for more information( https://en.wikipedia.org/wiki/MIT_License ).
+https://github.com/blockchain99/street-address-image-recognition/capstoneproject_report.pdf
 
 
 
